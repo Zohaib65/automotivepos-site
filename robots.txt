@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://automotivepos.online/sitemap.xml
